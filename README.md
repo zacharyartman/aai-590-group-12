@@ -171,10 +171,10 @@ The **baseline LightGBM** model is selected as the final Appraisal Agent because
 ## Contributors
 
 **AAI-590 Capstone Team**
-Samantha Colbert
-Nabeel Khan
-Zachary Artman
-Olga Pospelova
+* Zachary Artman
+* Samantha Colbert
+* Nabeel Khan
+* Olga Pospelova
 
 University of San Diego
 Master of Science in Applied Artificial Intelligence
